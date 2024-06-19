@@ -12,6 +12,7 @@ steps:
     terraformVersion: 'latest'
 
 - task: TerraformTaskV4@4
+  name: terraform_init
   inputs:
     provider: 'azurerm'
     command: 'init'
@@ -22,17 +23,19 @@ steps:
     backendAzureRmKey: 'terraform.tfstate'
 
 - task: TerraformTaskV4@4
-  name: terraform_init
+  name: terraform_validate
   inputs:
     provider: 'azurerm'
     command: 'validate'
 
 - task: TerraformTaskV4@4
+  name: terraform_plan
   inputs:
     provider: 'azurerm'
     command: 'plan'
     environmentServiceNameAzureRM: 'cicd'
 - task: TerraformTaskV4@4
+  name: terraform_apply
   inputs:
     provider: 'azurerm'
     command: 'apply'
