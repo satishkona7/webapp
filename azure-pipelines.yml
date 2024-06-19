@@ -20,7 +20,7 @@ steps:
     backendAzureRmResourceGroupName: 'terra'
     backendAzureRmStorageAccountName: 'terra056'
     backendAzureRmContainerName: 'terraa'
-    backendAzureRmKey: 'terraform.tfstate'
+    backendAzureRmKey: 'terrafor.tfstate'
 
 - task: TerraformTaskV4@4
   name: terraform_validate
