@@ -40,3 +40,9 @@ steps:
     provider: 'azurerm'
     command: 'apply'
     environmentServiceNameAzureRM: 'cicd'
+- task: TerraformTaskV4@4
+  name: terraform_destroy
+  inputs:
+    provider: 'azurerm'
+    command: 'destroy'
+    environmentServiceNameAzureRM: 'cicd'
