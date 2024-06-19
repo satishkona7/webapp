@@ -8,9 +8,6 @@ terraform {
 }
 provider "azurerm" {
     features {}
-    subscription_id = 
-    client_id = 
-    tenant_id = 
   
 }
 resource "azurerm_resource_group" "main" {
