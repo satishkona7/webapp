@@ -35,12 +35,6 @@ steps:
     command: 'plan'
     environmentServiceNameAzureRM: 'cicd'
 - task: TerraformTaskV4@4
-  name: terraform_apply
-  inputs:
-    provider: 'azurerm'
-    command: 'apply'
-    environmentServiceNameAzureRM: 'cicd'
-- task: TerraformTaskV4@4
   name: terraform_destroy
   inputs:
     provider: 'azurerm'
