@@ -18,7 +18,7 @@ resource "azurerm_resource_group" "aaaaa" {
     name = "aaaaa"
     location = "east us"
 }
-resource "azurerm_resource_group" "1111" {
-    name = "1111"
+resource "azurerm_resource_group" "DHONI1929" {
+    name = "DHONI1929"
     location = "east us"
 }
