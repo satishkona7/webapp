@@ -20,7 +20,7 @@ steps:
     backendAzureRmResourceGroupName: 'terra'
     backendAzureRmStorageAccountName: 'terra056'
     backendAzureRmContainerName: 'terraa'
-    backendAzureRmKey: 'terraform.tfstate'
+    backendAzureRmKey: 'terrafor.tfstate'
 
 - task: TerraformTaskV4@4
   name: terraform_validate
@@ -35,8 +35,8 @@ steps:
     command: 'plan'
     environmentServiceNameAzureRM: 'cicd'
 - task: TerraformTaskV4@4
-  name: terraform_apply
+  name: terraform_destroy
   inputs:
     provider: 'azurerm'
-    command: 'apply'
+    command: 'destroy'
     environmentServiceNameAzureRM: 'cicd'
