@@ -1,0 +1,75 @@
+[33mcommit b3338a14bb66e629c57f302ea43a2245bdf31975[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 5b88786 a36d184
+Author: satishkona7 <konasatish44@gmail.com>
+Date:   Wed Jun 19 16:21:52 2024 +0530
+
+    Merge branch 'main' of https://github.com/satishkona7/webapp
+
+[33mcommit 5b887865b8bb7219ce07c601801871c6db7a9fc1[m
+Author: satishkona7 <konasatish44@gmail.com>
+Date:   Wed Jun 19 16:21:29 2024 +0530
+
+    v6
+
+[33mcommit a36d184bf8742a005ac4ab953fec5acfe366e54b[m
+Author: satishkona7 <104558795+satishkona7@users.noreply.github.com>
+Date:   Wed Jun 19 16:20:33 2024 +0530
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit a29ea74b826e32b99c81ec3335eb95e44163cc4e[m
+Author: satishkona7 <104558795+satishkona7@users.noreply.github.com>
+Date:   Wed Jun 19 16:09:24 2024 +0530
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit f71e5c2a0f144b79e547511b36da2f029d88185a[m
+Merge: 0101f30 dca7d94
+Author: satishkona7 <konasatish44@gmail.com>
+Date:   Wed Jun 19 16:05:08 2024 +0530
+
+    Merge branch 'main' of https://github.com/satishkona7/webapp
+
+[33mcommit 0101f3055fc1e7ccf9a33459409d8c233dab7c2f[m
+Author: satishkona7 <konasatish44@gmail.com>
+Date:   Wed Jun 19 16:02:59 2024 +0530
+
+    v5
+
+[33mcommit dca7d940bf1ed9f5296b11a1cc00061b5e7d332f[m
+Author: satishkona7 <104558795+satishkona7@users.noreply.github.com>
+Date:   Wed Jun 19 15:59:22 2024 +0530
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit e02b60b9480512f006ce92c8321989d506317fe4[m
+Author: satishkona7 <104558795+satishkona7@users.noreply.github.com>
+Date:   Wed Jun 19 15:56:16 2024 +0530
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit b7f0b749a6aff90aaa1902d5275208f6a79f546e[m
+Author: satishkona7 <konasatish44@gmail.com>
+Date:   Wed Jun 19 15:12:20 2024 +0530
+
+    v4
+
+[33mcommit f31deadd2e66b98c4afeb7ac0b26b32180d464a7[m
+Author: satishkona7 <konasatish44@gmail.com>
+Date:   Wed Jun 19 14:16:42 2024 +0530
+
+    v3
+
+[33mcommit 4e2f5bf43c4ac6774d1bb2a60166bdfa41a906ad[m
+Author: satishkona7 <konasatish44@gmail.com>
+Date:   Wed Jun 19 14:13:51 2024 +0530
+
+    v2
+
+[33mcommit 9b5f0199b9110de2290cfdd5f2388e85a6a6ded8[m
+Author: satishkona7 <konasatish44@gmail.com>
+Date:   Wed Jun 19 14:06:43 2024 +0530
+
+    v1
